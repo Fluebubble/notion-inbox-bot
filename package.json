@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@notionhq/client": "^2.2.8",
     "node-telegram-bot-api": "^0.61.0",
     "nodemon": "^3.0.1"
   }
